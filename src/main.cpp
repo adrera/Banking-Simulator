@@ -1,6 +1,6 @@
 //Author: Ayatt Drera
 //Date: April 2026
-//PA7 - Loan Calculator
+//Loan Calculator
 //This program defines a base class Loan, and two derived classes SimpleLoan and AmortizedLoan. 
 //The program calculates monthly payments for both types of loans, displays loan information, and saves loan data to a file.
 #include <iostream>
